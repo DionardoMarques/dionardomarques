@@ -12,9 +12,7 @@
 </div>
   
   ##
-  
-<h2>Knowledges</h2>  
-<div align="center">
+<div>
   <br>
   <img alt="Python-Badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="JavaScript-Badge" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -28,7 +26,6 @@
 </div>
   
   ##
-<h2>Contacts</h2>
 <div align="center">
   <br>
   <a href="mailto:dionardogianluca@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
