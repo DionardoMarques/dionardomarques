@@ -13,9 +13,9 @@
   
   ##
   
+<h2>Knowledges</h2>  
 <div align="center">
   <br>
-  <h1>Knowledges</h1>
   <img alt="Python-Badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="JavaScript-Badge" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img alt="PHP-Badge" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -28,9 +28,9 @@
 </div>
   
   ##
+<h2>Contacts</h2>
 <div align="center">
   <br>
-  <h1>Contacts</h1>
   <a href="mailto:dionardogianluca@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/dionardo-marques-4361811b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://wa.me/5551982781342" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
