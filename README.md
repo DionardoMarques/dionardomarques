@@ -1,6 +1,6 @@
 ### Hey there 👋 I'm Dionardo Marques
 
-- 🔭 Currently working with system support
+- 🔭 Currently working with technical support
 - 🌱 Learning React.JS Framework
 - 📫 Contact me on: dionardogianluca@gmail.com
 - ⚡ I really like Mr. Robot
