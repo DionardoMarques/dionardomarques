@@ -2,7 +2,7 @@
 
 - 🔭 Currently working with development of systems
 - 🌱 Increasing PHP skills
-- 📫 Contact me on: dionardogianluca@gmail.com
+- 📫 Contact me on: dionardogianluca@gmail.com or https://br.linkedin.com/in/dionardo-marques
 - ⚡ I really like Mr. Robot
 
 <div align="center">
@@ -13,9 +13,8 @@
 </div>
   
   ##
-<br>
 <div align="center">
-  
+  <h3>Tech Stack</h3>
   <img alt="PHP-Badge" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img alt="JavaScript-Badge" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img alt="React.JS-Badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
