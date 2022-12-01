@@ -2,7 +2,6 @@
 
 - 🔭 Currently working with development of systems
 - 🌱 Increasing PHP skills
-- 📫 Contact me on: dionardogianluca@gmail.com or https://br.linkedin.com/in/dionardo-marques
 - ⚡ I really like Mr. Robot
 
 <div align="center">
