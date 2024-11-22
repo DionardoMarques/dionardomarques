@@ -1,7 +1,7 @@
 ### Hey there 👋 I'm Dionardo Marques
 
 - :computer: Currently working with development of systems
-- :coffee: Increasing Java skills
+- :rocket: Increasing C# skills
 - :robot: I really like Mr. Robot
 
 <div align="center">
