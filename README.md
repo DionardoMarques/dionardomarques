@@ -1,6 +1,6 @@
 ### Hey there 👋 I'm Dionardo Marques
 
-- :computer: Currently working with development of systems
+- :computer: Currently working with software development
 - :rocket: Increasing C# skills
 - :robot: I really like Mr. Robot
 
