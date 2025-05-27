@@ -1,7 +1,7 @@
 ### Hey there 👋 I'm Dionardo Marques
 
 - :computer: Currently working with software development
-- :rocket: Increasing C# skills
+- :rocket: Increasing PHP skills
 - :robot: I really like Mr. Robot
 
 <div align="center">
