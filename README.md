@@ -26,9 +26,3 @@
   <img alt="MySQL-Badge" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img alt="AWS-Badge" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div>
-  
-  ##
-<div align="center">
-  <h3>Contact</h3>
-  <a href="https://www.linkedin.com/in/dionardo-gianluca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></
-</div>
