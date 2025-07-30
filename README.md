@@ -1,7 +1,7 @@
 ### Hey there 👋 I'm Dionardo Gianluca
 
 - :computer: Currently working with software development
-- :rocket: Increasing PHP skills
+- :rocket: Increasing C# skills
 - :robot: I really like Mr. Robot
 
 <div align="center">
